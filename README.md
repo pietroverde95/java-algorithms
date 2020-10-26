@@ -1,3 +1,3 @@
-# java-algorithms
+# java-algorithms hacktoberfest
 
 Hello, World!
